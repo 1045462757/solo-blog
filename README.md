@@ -1,8 +1,8 @@
-<p align="center"><img alt="tiga的博客" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+<p align="center"><img alt="tiga的博客" src="https://avatars2.githubusercontent.com/u/44746659?s=460&v=4"></p><h2 align="center">
 tiga的博客
 </h2>
 
-<h4 align="center">有事做，有人爱，有所期待。</h4>
+<h4 align="center">征途是星辰大海</h4>
 <p align="center"><a title="tiga的博客" target="_blank" href="https://github.com/1045462757/solo-blog"><img src="https://img.shields.io/github/last-commit/1045462757/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/1045462757/solo-blog"><img src="https://img.shields.io/github/repo-size/1045462757/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.3-f1e05a.svg?style=flat-square&color=blueviolet"></a>
@@ -10,6 +10,8 @@ tiga的博客
 
 ### 最新
 
+* [Mysql学习笔记一](https://hylovecode.cn/articles/2019/07/18/1563439125754.html)
+* [Tomcat配置https](https://hylovecode.cn/articles/2019/07/17/1563374030383.html)
 * [java学习笔记二](https://hylovecode.cn/articles/2019/07/17/1563333001902.html)
 * [vue项目的构建](https://hylovecode.cn/articles/2019/07/16/1563264049956.html)
 * [java学习笔记一](https://hylovecode.cn/articles/2019/07/16/1563258452274.html)
